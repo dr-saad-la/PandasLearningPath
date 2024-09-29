@@ -2,7 +2,7 @@
 
 The **Pandas Learning Path** is a comprehensive guide for mastering the Pandas library, a powerful and widely-used open-source data analysis and manipulation tool in Python. This repository contains tutorials, examples, and exercises to help you grasp the essential and advanced features of Pandas for data processing, cleaning, and analysis.
 
-## Author
+#### Author and Maintainer
 
 **Dr. Saad Laouadi**
 
